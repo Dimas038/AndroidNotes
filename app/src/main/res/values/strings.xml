@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNotesTestTask</string>
+    <string name="create">Создать</string>
+    <string name="clear">Очистить</string>
+    <string name="save">Сохранить</string>
+    <string name="error_title">Введите название</string>
+    <string name="error_definition">Введите описание</string>
+</resources>
